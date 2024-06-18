@@ -14,6 +14,7 @@
         Button add;
         AlertDialog dialog;
         LinearLayout layout;
+        //ebrterjnjkernkjsenrkgje
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
